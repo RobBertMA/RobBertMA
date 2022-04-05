@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobBertMA
-- 👀 I’m interested in Data analytics
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning for Data Analyst
 - 💞️ I’m looking to collaborate on data projects 
 - 📫 How to reach me robbertandringa@hotmail.com
